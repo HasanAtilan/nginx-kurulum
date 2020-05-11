@@ -29,15 +29,11 @@ baslangic(){
   system("clear");
   kurulumyapalim();
   } else {
-	if(sectir==2){
-	system("clear");
-	menu2();
-	} else {
 	system("clear");
 	hatalisectiniz();
 	}
   }
-}
+
 
 
 kurulumyapalim(){
